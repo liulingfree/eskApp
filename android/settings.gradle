@@ -1,0 +1,3 @@
+rootProject.name = 'eskapp'
+
+include ':app'
